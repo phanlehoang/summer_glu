@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751869252729",
+    "project_id": "glucosecontroller",
+    "storage_bucket": "glucosecontroller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751869252729:android:2ce1765bcbc50f8b0530a8",
+        "android_client_info": {
+          "package_name": "com.example.glucose_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751869252729-7j5bfno9e3fj4l3scheoehofhtc4f40a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glucose_control",
+            "certificate_hash": "6b2e2bf3c1b0024e59d07666ce7903eace034388"
+          }
+        },
+        {
+          "client_id": "751869252729-of5660dg2j2d8bigq0vs1ife2vbj52dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzueQrMtxHplZiZiYxDxKvOpOF0WUqcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751869252729-of5660dg2j2d8bigq0vs1ife2vbj52dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
